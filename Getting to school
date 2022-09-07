@@ -1,4 +1,5 @@
-leave condo
+start
+leave condo room
 walk to life of condo
 walk to the car in parking lot
 ride in the car until reach siam scape
@@ -8,3 +9,4 @@ open the door
 walk to the lift
 click 11th floor
 reach newton
+end
