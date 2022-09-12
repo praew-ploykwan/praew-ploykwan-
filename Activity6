@@ -1,0 +1,8 @@
+SEND 'Please enter the first number' TO DISPLAY
+RECIEVE first_number FROM KEYBOARD
+SEND 'Please enter the second number' TO DISPLAY
+RECIEVE second_number FROM KEYBOARD
+SEND 'Please enter the third number' TO DISPLAY
+RECIEVE third_number FROM KEYBOARD
+SET forth_number TO first_number * second_number * third_number / 3
+SEND forth_number TO DISPLAY
